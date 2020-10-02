@@ -4,4 +4,4 @@ Contactless switch which we can use to turn ON or OFF various devices without pr
 Software Used: EASYEDA (Desktop Version)
 
 *** 
- ![](img.JPG)
+ ![](sch.JPG)
